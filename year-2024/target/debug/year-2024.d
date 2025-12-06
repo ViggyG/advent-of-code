@@ -1,0 +1,1 @@
+/home/gaelin/repos/advent-of-code/year-2024/target/debug/year-2024: /home/gaelin/repos/advent-of-code/year-2024/src/days/day1.rs /home/gaelin/repos/advent-of-code/year-2024/src/days/mod.rs /home/gaelin/repos/advent-of-code/year-2024/src/days/util.rs /home/gaelin/repos/advent-of-code/year-2024/src/main.rs
