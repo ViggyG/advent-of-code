@@ -1,5 +1,5 @@
 mod days;
 
 fn main() {
-    println!("{}",days::day1::solution());
+    days::day1::solution();
 }
