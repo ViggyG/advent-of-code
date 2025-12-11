@@ -22,8 +22,6 @@ pub fn solution() {
 
         total_passes += passes;
 
-        print!("{position} + {rotation} ({line}) = ");
-
         let prev_pos = position;
 
         position += rotation;
@@ -39,7 +37,7 @@ pub fn solution() {
             total_passes += 1;
             total += 1;
         }
-
-        println!("{position} | passes: {passes} | total: {total} | total passes: {total_passes}");
     }
+
+    println!("day 1 - total: {total} | total passes: {total_passes}");
 }
